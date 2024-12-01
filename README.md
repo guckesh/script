@@ -8,7 +8,6 @@ curl -o linux-stable.sh https://raw.githubusercontent.com/android-linux-stable/s
 ```
 Once you have it downloaded, run 
 ```
-```shel
 ./linux-stable.sh -m -l
 ```
 to learn more about it
